@@ -14,7 +14,9 @@
         "bulma": "^0.9.1",
         "date-fns": "^2.16.1",
         "react": "^17.0.1",
-        "react-dom": "^17.0.1"
+        "react-dom": "^17.0.1",
+        "react-markdown": "^8.0.5",
+        "remark-gfm": "remarkjs/remark-gfm"
     },
     "devDependencies": {
         "@babel/core": "^7.12.10",
